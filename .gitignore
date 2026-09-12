@@ -1,0 +1,11 @@
+# Data files (personal/generated at runtime)
+patient_data.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
